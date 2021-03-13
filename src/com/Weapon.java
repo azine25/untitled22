@@ -28,6 +28,4 @@ public class Weapon {
         return  type + " " + name;
 
     }
-
-
 }
